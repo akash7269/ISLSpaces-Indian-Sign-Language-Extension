@@ -152,3 +152,9 @@ ISLSpaces/
  - 🌍 Support for more Indian languages
  - 🤖 AI-based contextual explanations
  - ✨ Automatic detection of ISL-supported words
+
+![alt text](Screenshot(1).png)
+![alt text](Screenshot(2).png)
+![alt text](Screenshot(3).png)
+![alt text](Screenshot(4).png)
+![alt text](Screenshot(5).png)
