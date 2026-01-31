@@ -1,0 +1,21 @@
+<!doctype html>
+<html>
+  <head>
+    <meta charset="utf-8" />
+    <title>ISLSpaces Options</title>
+    <style>
+      body { font-family: system-ui, -apple-system, Segoe UI, Roboto, Arial, sans-serif; margin: 20px; }
+      label { display:block; margin: 12px 0; }
+      input[type="text"] { width: 320px; padding: 6px; }
+      button { padding:8px 12px; }
+    </style>
+  </head>
+  <body>
+    <h2>ISLSpaces — Options</h2>
+    <label>Highlight CSS color: <input id="color" type="text" placeholder="rgba(255,221,87,0.4)"/></label>
+    <label><input id="autostart" type="checkbox" /> Enable automatically on all pages</label>
+    <button id="save">Save</button>
+    <p id="status"></p>
+    <script src="options.js"></script>
+  </body>
+</html>
